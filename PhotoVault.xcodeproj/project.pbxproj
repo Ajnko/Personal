@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		CC70B5562C6627EF0030DC00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC70B5552C6627EF0030DC00 /* AppDelegate.swift */; };
 		CC70B5582C6627EF0030DC00 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC70B5572C6627EF0030DC00 /* SceneDelegate.swift */; };
-		CC70B55A2C6627EF0030DC00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC70B5592C6627EF0030DC00 /* ViewController.swift */; };
+		CC70B55A2C6627EF0030DC00 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC70B5592C6627EF0030DC00 /* LogInViewController.swift */; };
 		CC70B55D2C6627EF0030DC00 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CC70B55C2C6627EF0030DC00 /* Base */; };
 		CC70B5602C6627EF0030DC00 /* PhotoVault.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CC70B55E2C6627EF0030DC00 /* PhotoVault.xcdatamodeld */; };
 		CC70B5622C6627F20030DC00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC70B5612C6627F20030DC00 /* Assets.xcassets */; };
@@ -20,7 +20,7 @@
 		CC70B5522C6627EF0030DC00 /* PhotoVault.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoVault.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC70B5552C6627EF0030DC00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CC70B5572C6627EF0030DC00 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		CC70B5592C6627EF0030DC00 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CC70B5592C6627EF0030DC00 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		CC70B55C2C6627EF0030DC00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CC70B55F2C6627EF0030DC00 /* PhotoVault.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PhotoVault.xcdatamodel; sourceTree = "<group>"; };
 		CC70B5612C6627F20030DC00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 			children = (
 				CC70B5552C6627EF0030DC00 /* AppDelegate.swift */,
 				CC70B5572C6627EF0030DC00 /* SceneDelegate.swift */,
-				CC70B5592C6627EF0030DC00 /* ViewController.swift */,
+				CC70B5592C6627EF0030DC00 /* LogInViewController.swift */,
 				CC70B55B2C6627EF0030DC00 /* Main.storyboard */,
 				CC70B5612C6627F20030DC00 /* Assets.xcassets */,
 				CC70B5632C6627F20030DC00 /* LaunchScreen.storyboard */,
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC70B55A2C6627EF0030DC00 /* ViewController.swift in Sources */,
+				CC70B55A2C6627EF0030DC00 /* LogInViewController.swift in Sources */,
 				CC70B5602C6627EF0030DC00 /* PhotoVault.xcdatamodeld in Sources */,
 				CC70B5562C6627EF0030DC00 /* AppDelegate.swift in Sources */,
 				CC70B5582C6627EF0030DC00 /* SceneDelegate.swift in Sources */,
